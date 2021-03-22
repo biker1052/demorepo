@@ -24,4 +24,7 @@ fun main(){
 
     println("5 commit")
     println("6 commit")
+
+    println("7 commit")
+
 }
